@@ -3,7 +3,7 @@
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungwoo123"/>
 
-## 👋 Sungwoo 👋 
+<h2> 👋 Sungwoo 👋 </h2>
 <p>
 항상 노력하는 게임 프로그래머 지망생 조성우입니다.
 </p>
@@ -20,7 +20,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chosungwoo123&layout=compact"/>
 
-### 📚 Skill Stack 📚
+<h3> 📚 Skill Stack 📚 </h3>
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>                   
@@ -32,7 +32,7 @@
 <br>
 <br>
   
-### 🛠 Used Tools 🛠
+<h3> 🛠 Used Tools 🛠 </h3>
 
 <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
