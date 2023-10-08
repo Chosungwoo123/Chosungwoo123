@@ -1,9 +1,9 @@
 <div align="left">
 
+
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungwoo123"/>
 
-
-## Sung Woo 👋
+## 👋 Sungwoo 👋 
 <p>
 항상 노력하는 게임 프로그래머 지망생 조성우입니다.
 </p>
