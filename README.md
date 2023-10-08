@@ -19,7 +19,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chosungwoo123&layout=compact"/>
 
-## 📚 Skill Stack 📚
+### 📚 Skill Stack 📚
 
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>                   
@@ -31,7 +31,7 @@
 <br>
 <br>
   
-## 🛠 Used Tools 🛠
+### 🛠 Used Tools 🛠
 
 <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
