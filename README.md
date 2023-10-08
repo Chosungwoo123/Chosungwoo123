@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sungwoo123"/>
 
@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <br>
 <br>
