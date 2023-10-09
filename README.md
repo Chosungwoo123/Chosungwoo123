@@ -20,6 +20,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chosungwoo123&layout=compact"/>
 
+
 <h3> 📚 Skill Stack 📚 </h3>
 
 <p>
@@ -36,5 +37,7 @@
 
 <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Chosungwoo123&show_icons=true&theme=cobalt">
 
 </div>
