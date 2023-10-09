@@ -37,6 +37,7 @@
 
 <img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Chosungwoo123&show_icons=true&theme=cobalt">
 
